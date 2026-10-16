@@ -1,2 +1,4 @@
-# Deploy notes
-Deploy window: 22:00 UTC
+# Deploy not
+
+Deploy window: 09:00 UTC and 22:00 UTC
+
